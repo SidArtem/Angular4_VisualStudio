@@ -1,0 +1,7 @@
+**/node_modules/
+**/packages/
+**/obj/Debug/
+**/app/**/*.js
+**/*.js.map
+.vs/
+**/bin/
